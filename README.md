@@ -22,11 +22,19 @@ Toward Distributed Decentralized DC Optimal Power Flow Implementation in Future 
 
 GPU-Accelerated DCOPF using Gradient-Based Optimization
 
+Convexification_of_power_flow_problem_over_arbitrary_networks
+
+Convex Hull Formulations for Linear Modeling of Energy Storage Systems
+
+Zero Duality Gap in Optimal Power Flow Problem
+
 ### Carbon aware computing 
 
 Carbon-Aware Computing for Data Centers with Probabilistic Performance Guarantees
 
 Carbon-Aware Computing in a Network of Data Centers: A Hierarchical Game-Theoretic Approach
+
+Flexibility from Networks of Data Centers: A Market Clearing Formulation with Virtual Links
 
 ### Fairness
 
@@ -36,6 +44,21 @@ Distributionally Fair Peer-to-Peer Electricity Trading
 
 ### Presriptive analytics 
 
-### Other 
+Constructing Uncertainty Sets From Covariates in Power Systems
+
+Prescribed robustness in optimal power flow
+
+Regression Markets and Application to Energy Forecasting
+
+Toward Value-oriented Renewable Energy Forecasting: An Iterative Learning Approach
+
+
+
+### More applicationgs of mathematical optimization 
+
+California Test System (CATS): A Geographically Accurate Test System based on the California Grid
+
+Towards Optimal Kron-based Reduction Of Networks (Opti-KRON) for the Electric Power Grid
+
 
 
