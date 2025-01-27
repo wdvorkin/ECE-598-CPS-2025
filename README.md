@@ -40,7 +40,7 @@ Flexibility from Networks of Data Centers: A Market Clearing Formulation with Vi
 
 [a relative link](other_file.md)
 
-Balancing Fairness and Efficiency in Energy Resource Allocations
+[Balancing Fairness and Efficiency in Energy Resource Allocations](papers-for-review/Balancing Fairness and Efficiency in Energy Resource Allocations.pdf)
 
 Distributionally Fair Peer-to-Peer Electricity Trading
 
