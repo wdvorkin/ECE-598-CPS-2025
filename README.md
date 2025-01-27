@@ -24,7 +24,7 @@ GPU-Accelerated DCOPF using Gradient-Based Optimization
 
 Convexification_of_power_flow_problem_over_arbitrary_networks
 
-Convex Hull Formulations for Linear Modeling of Energy Storage Systems
+[Convex Hull Formulations for Linear Modeling of Energy Storage Systems](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Convex_Hull_Formulations_for_Linear_Modeling_of_Energy_Storage_Systems.pdf)
 
 Zero Duality Gap in Optimal Power Flow Problem
 
