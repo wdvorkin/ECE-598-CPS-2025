@@ -1,6 +1,6 @@
 # ECE-598-CPS-2025
 
-Find papers available for review in ```/papers-for-review``` They are categorized by CPS topics as follows:
+## Papers for review ##
 
 ### Distributed optimization/control of power grids
 
@@ -8,7 +8,7 @@ Find papers available for review in ```/papers-for-review``` They are categorize
 
 [Fast Inverter Control by Learning the OPF Mapping using Sensitivity-Informed Gaussian Processes](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Fast%20Inverter%20Control%20by%20Gaussian%20Process.pdf)
 
-Online Feedback Optimization for Subtransmission Grid Control
+[Online Feedback Optimization for Subtransmission Grid Control](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Online%20Feedback%20Optimization%20for%20Subtransmission%20Grid%20Control.pdf)
 
 [Optimal Power Flow Pursuit via Feedback-based Safe Gradient Flow](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Optimal%20Power%20Flow%20Pursuit%20via%20Feedback-based%20Safe%20Gradient%20Flow.pdf)
 
@@ -20,13 +20,13 @@ Online Feedback Optimization for Subtransmission Grid Control
 
 ### Optimization methods 
 
-GPU-Accelerated DCOPF using Gradient-Based Optimization
+[GPU-Accelerated DCOPF using Gradient-Based Optimization](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/GPU-Accelerated%20DCOPF%20using%20Gradient-Based%20Optimization.pdf)
 
 [Convexification of Power Flow Problem over Arbitrary Networks](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Convexification_of_power_flow_problem_over_arbitrary_networks.pdf)
 
 [Convex Hull Formulations for Linear Modeling of Energy Storage Systems](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Convex_Hull_Formulations_for_Linear_Modeling_of_Energy_Storage_Systems.pdf)
 
-Zero Duality Gap in Optimal Power Flow Problem
+[Zero Duality Gap in Optimal Power Flow Problem](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Zero_Duality_Gap_in_Optimal_Power_Flow_Problem.pdf)
 
 ### Carbon aware computing 
 
@@ -40,7 +40,7 @@ Zero Duality Gap in Optimal Power Flow Problem
 
 [Balancing Fairness and Efficiency in Energy Resource Allocations](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Balancing%20Fairness%20and%20Efficiency%20in%20Energy%20Resource%20Allocations.pdf)
 
-Distributionally Fair Peer-to-Peer Electricity Trading
+[Distributionally Fair Peer-to-Peer Electricity Trading](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Distributionally%20Fair%20Peer-to-Peer%20Electricity%20Trading.pdf)
 
 ### Presriptive analytics 
 
@@ -58,7 +58,7 @@ Distributionally Fair Peer-to-Peer Electricity Trading
 
 [California Test System (CATS): A Geographically Accurate Test System based on the California Grid](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/California%20Test%20System%20%28CATS%29.pdf)
 
-Towards Optimal Kron-based Reduction Of Networks (Opti-KRON) for the Electric Power Grid
+[Towards Optimal Kron-based Reduction Of Networks (Opti-KRON) for the Electric Power Grid](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Towards_Optimal_Kron-based_Reduction_Of_Networks_Opti-KRON_for_the_Electric_Power_Grid-3.pdf)
 
 
 
