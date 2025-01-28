@@ -54,7 +54,7 @@
 
 
 
-### More applicationgs of mathematical optimization 
+### More applications of mathematical optimization 
 
 [California Test System (CATS): A Geographically Accurate Test System based on the California Grid](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/California%20Test%20System%20%28CATS%29.pdf)
 
