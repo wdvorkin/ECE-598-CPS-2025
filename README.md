@@ -4,19 +4,19 @@ Find papers available for review in ```/papers-for-review``` They are categorize
 
 ### Distributed optimization/control of power grids
 
-Designing Reactive Power Control Rules with SVM
+[Designing Reactive Power Control Rules for Smart Inverters using Support Vector Machines](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Designing%20Reactive%20Power%20Control%20Rules%20with%20SVM.pdf)
 
-Fast Inverter Control by Gaussian Process
+[Fast Inverter Control by Learning the OPF Mapping using Sensitivity-Informed Gaussian Processes](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Fast%20Inverter%20Control%20by%20Gaussian%20Process.pdf)
 
 Online Feedback Optimization for Subtransmission Grid Control
 
-Optimal Power Flow Pursuit via Feedback-based Safe Gradient Flow
+[Optimal Power Flow Pursuit via Feedback-based Safe Gradient Flow](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Optimal%20Power%20Flow%20Pursuit%20via%20Feedback-based%20Safe%20Gradient%20Flow.pdf)
 
-Optimization Algorithms as Robust Feedback Controllers
+[Optimization Algorithms as Robust Feedback Controllers](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Optimization%20algorithms%20as%20robust%20feedback%20controllers.pdf)
 
-Stochastic Model Predictive Controller for Wind Farm Frequency Regulation in Waked Conditions
+[Stochastic Model Predictive Controller for Wind Farm Frequency Regulation in Waked Conditions](https://github.com/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Stochastic%20model%20predictive%20controller%20for%20wind%20farm%20frequency%20regulation%20in%20waked%20conditions.pdf)
 
-Toward Distributed Decentralized DC Optimal Power Flow Implementation in Future Electric Power Systems
+[Toward Distributed Decentralized DC Optimal Power Flow Implementation in Future Electric Power Systems](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Toward_Distributed_Decentralized_DC_Optimal_Power_Flow_Implementation_in_Future_Electric_Power_Systems.pdf)
 
 ### Optimization methods 
 
@@ -34,7 +34,7 @@ Zero Duality Gap in Optimal Power Flow Problem
 
 [Carbon-Aware Computing in a Network of Data Centers: A Hierarchical Game-Theoretic Approach](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Carbon-Aware%20Computing%20in%20a%20Network%20of%20Data%20Centers.pdf)
 
-Flexibility from Networks of Data Centers: A Market Clearing Formulation with Virtual Links
+[Flexibility from Networks of Data Centers: A Market Clearing Formulation with Virtual Links](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Flexibility%20from%20Networks%20of%20Data%20Centers.pdf)
 
 ### Fairness
 
@@ -46,11 +46,11 @@ Distributionally Fair Peer-to-Peer Electricity Trading
 
 [Constructing Uncertainty Sets From Covariates in Power Systems](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Constructing_Uncertainty_Sets_From_Covariates_in_Power_Systems.pdf)
 
-Prescribed robustness in optimal power flow
+[Prescribed robustness in optimal power flow](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Prescribed%20robustness%20in%20optimal%20power%20flow.pdf)
 
-Regression Markets and Application to Energy Forecasting
+[Regression Markets and Application to Energy Forecasting](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Regression%20Markets%20and%20Application%20to%20Energy%20Forecasting.pdf)
 
-Toward Value-oriented Renewable Energy Forecasting: An Iterative Learning Approach
+[Toward Value-oriented Renewable Energy Forecasting: An Iterative Learning Approach](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Toward%20Value-oriented%20Renewable%20Energy.pdf)
 
 
 
