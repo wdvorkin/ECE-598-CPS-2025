@@ -22,7 +22,7 @@ Toward Distributed Decentralized DC Optimal Power Flow Implementation in Future 
 
 GPU-Accelerated DCOPF using Gradient-Based Optimization
 
-[Convexification_of_power_flow_problem_over_arbitrary_networks](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Convexification_of_power_flow_problem_over_arbitrary_networks.pdf)
+[Convexification of Power Flow Problem over Arbitrary Networks](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Convexification_of_power_flow_problem_over_arbitrary_networks.pdf)
 
 [Convex Hull Formulations for Linear Modeling of Energy Storage Systems](https://nbviewer.org/github/wdvorkin/ECE-598-CPS-2025/blob/main/papers-for-review/Convex_Hull_Formulations_for_Linear_Modeling_of_Energy_Storage_Systems.pdf)
 
